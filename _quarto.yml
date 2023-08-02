@@ -4,7 +4,6 @@ project:
 website:
   site-url: https://FabianZah.github.io/
   repo-url: https://github.com/FabianZah/FabianZah.github.io/
-  favicon: favicon.png
   title: "Fabian Zahnow"
   navbar:
     left:

@@ -1,8 +1,8 @@
 ---
-title: "Thomas Rose"
+title: "Fabian Zahnow"
 about:
   id: template-area
-  template: jolla
+  template: solana
   image: profile.png
   links:
     - icon: twitter
@@ -10,33 +10,24 @@ about:
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/FabianZah
 ---
-
-## Tasks for this page
-
-* Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
-* Update the legal information
-* Write a short introduction set of you
-* delete this section
-
 
 :::{#template-area}
 
-Here goes the information to be included in the template. 
+I am a geologist. 
 
 :::
 
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Am Satz 8  
-60437 Frankfurt  
-Germany  
+Fabian Zahnow  
+Goldschmidtstr. 1
+37077 Germany  
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +49 ....
+E-Mail: fabian.zahnow [at] uni-goettingen.de
 
 ## Privacy
 

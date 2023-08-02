@@ -5,7 +5,7 @@ website:
   site-url: https://FabianZah.github.io/
   repo-url: https://github.com/FabianZah/FabianZah.github.io/
   title: "Fabian Zahnow"
-  favicon: favicon.png
+  favicon: profile.png
   navbar:
     left:
       - text: "My research"

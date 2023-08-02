@@ -3,7 +3,6 @@ title: "Fabian Zahnow"
 about:
   id: template-area
   template: solana
-  image: profile.png
   links:
     - icon: twitter
       text: twitter
